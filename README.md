@@ -14,6 +14,3 @@ Follow these steps to install TrackMate without Android Studio:
 
 ## Security Note
 The app requires permission to install from unknown sources as it's distributed directly rather than through the Play Store. This is normal for direct APK installations.
-
-## Support
-If you encounter any issues during installation, please open an issue in this repository.
